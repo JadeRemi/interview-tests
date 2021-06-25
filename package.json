@@ -1,0 +1,15 @@
+{
+  "name": "interview-tests",
+  "version": "0.1.0",
+  "description": "Testing:",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JadeRemi/interview-tests.git"
+  },
+  "dependencies": {
+    "babel-cli": "^6.18.0"
+  }
+}
